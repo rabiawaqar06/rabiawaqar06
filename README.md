@@ -1,4 +1,4 @@
-# 👩‍💻 About Me
+# About Me
 
 Hey there! I'm Rabia, an emerging developer with a strong curiosity for building meaningful and efficient solutions. Currently diving deep into AI and automation, I enjoy turning abstract ideas into practical tools that make life (and work!) smarter.
 
@@ -8,14 +8,14 @@ Hey there! I'm Rabia, an emerging developer with a strong curiosity for building
 
 ---
 
-## 🛠️ Tech & Tools
+## Tech & Tools
 
 `Python` · `JavaScript` · `Linux` · `Git/GitHub` · `Cursor AI` · `VSCode` · `No-code Builders`  
 Learning: `AI Agents` · `Machine Learning Basics` · `Automation Tools`
 
 ---
 
-## 📌 What I’m Up To
+## What I’m Up To
 
 - Building AI Agents (both code & no-code)  
 - Contributing to team projects during the AI Bootcamp  
@@ -24,7 +24,7 @@ Learning: `AI Agents` · `Machine Learning Basics` · `Automation Tools`
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect
 
 I'm always open to learning from others, collaborating on cool ideas, or just geeking out over clean code.  
 📫 You can reach me here or find me on [LinkedIn](#).
