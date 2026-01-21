@@ -8,8 +8,8 @@ Hey there! I'm Rabia, an emerging developer with a strong curiosity for building
 
 ## Tech & Tools
 
-`Python` · `JavaScript` · `Linux` · `Git/GitHub` · `Cursor AI` · `VSCode` · `No-code Builders`  
-Learning: `AI Agents` · `Machine Learning Basics` · `Automation Tools`
+`Python` · `JavaScript` · `REST APIs` · `RAG` · `Prompt Engineering` · `LLMs` · `CrewAI`  
+`Machine Learning` · `Docker Basics` · `LangChain` · `Vector Databases` · `n8n/Make`
 
 ---
 
